@@ -34,10 +34,10 @@ The dashboard provides insights into salaries, job trends, and job distributions
 ## 🔹 Screenshots  
 
 ### Main Dashboard  
-![Dashboard Screenshot](images/dashboard.png)  
+![Dashboard Screenshot](dashboard.png)  
 
 ### Drill-Through Example  
-![Drillthrough Screenshot](images/drill-through.png)  
+![Drillthrough Screenshot](drill-through.png)  
 
 ---
 
